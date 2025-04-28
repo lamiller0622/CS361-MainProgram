@@ -28,8 +28,8 @@ class RecipeController extends Controller
             'ingredients' => 'required|string',
             'instructions' => 'required|string',
         ]);
-        Recipe::create($validated);
-        return redirect()->route('recipes.index')->with('success', 'Recipe added!');
+        $recipe = Recipe::create($validated);
+        return redirect()->route('recipes.show', compact('recipe'))->with('success', 'Recipe added!');
     }
 
     public function edit(Recipe $recipe)

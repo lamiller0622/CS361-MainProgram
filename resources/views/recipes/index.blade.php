@@ -9,7 +9,7 @@
   </div>
   <div class="row yellow-cards-wrapper mt-5">
       @foreach ($recipes as $recipe)
-        <div class="col-lg-4 col-sm-6 card-wrapper">
+        <div class="col-lg-4 col-sm-6 card-wrapper mb-4">
             <div class="yellow-card d-flex justify-content-around flex-column">
               <h2 class="yellow-card-text">{{ $recipe->title }}</h2>
               <div class="buttons d-flex gap-3 justify-content-evenly">
