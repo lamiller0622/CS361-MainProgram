@@ -1,0 +1,130 @@
+@import 'bootstrap/scss/bootstrap';
+
+body {
+  font-family: "Work Sans";
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.26px;
+  h1,h2,h3,h4,h5,h6{
+    color: #000;
+    font-family: Gantari, sans-serif;
+    font-weight: bold;
+  }
+  h1{
+    font-size: 36px;
+  }
+  h2{
+    font-size: 24px;
+  }
+  p{
+
+  }
+  .btn{
+    border-radius: 10px;
+    font-family: Gantari, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+  }
+  .btn-lg{
+    padding: .5rem 2rem;
+  }
+  .btn-sm{
+    padding: .5rem 1rem;
+  }
+  .btn-primary{
+    background: #5D5FEF;
+    border: 2px solid #5D5FEF;
+    
+    &:hover{
+      background: #fff;
+      color: #000;
+      border: 2px solid #5D5FEF;
+    }
+  }
+  .btn-secondary{
+    background: #fff;
+    color: #000;
+    border: 2px solid #5D5FEF;
+    &:hover{
+      border-color: #5D5FEF;
+      background: #5D5FEF;
+    }
+  }
+  .yellow-cards-wrapper{
+    .card-wrapper{
+      .yellow-card{
+        text-decoration: none;
+        width: 100%;
+        height: 280px;
+        flex-shrink: 0;
+        border-radius: 10px;
+        transition: .5s;
+        .yellow-card-text{
+          text-align: center;
+          margin-top: 1rem;
+        }
+      }
+      .bold-yellow{
+          background: #FFEB00 !important;
+        }
+      img{
+        width: 100%;
+        height: 215px;
+        object-fit: cover;
+        border-radius: 10px 10px 0 0;
+      }
+      &:nth-child(even){
+        .yellow-card{
+          background: #FFFABC;
+          &:hover{
+            background: #FFEB00;
+          }
+        }
+      }
+      &:nth-child(odd){
+        .yellow-card{
+          border: solid 3px #FFFABC;
+          background: #FFF;
+          &:hover{
+            background: #FFFABC;
+          }
+        }
+      } 
+    }
+  }
+  
+}
+
+.form-container{
+  max-width: 540px;
+  margin: auto;
+  .form-control{
+    border: solid 1px #A5A6F6;
+  }
+}
+.recipe-container{
+  max-width: 720px;
+  padding: 4rem;
+  border-radius: 10px;
+  background: #FFFABC;
+  margin: auto;
+  .white-wrap{
+    background: #fff;
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 2rem 0;
+  }
+  .sm-details{
+    font-style: italic;
+  }
+  .ql-editor{
+    white-space: normal;
+  }
+}
+
+
+
