@@ -27,6 +27,7 @@ class RecipeController extends Controller
             'servings' => 'string|max:255',
             'ingredients' => 'required|string',
             'instructions' => 'required|string',
+            'image_url'    => 'nullable|url',
         ]);
         $recipe = Recipe::create($validated);
         return redirect()->route('recipes.show', compact('recipe'))->with('success', 'Recipe added!');
@@ -51,6 +52,7 @@ class RecipeController extends Controller
             'servings' => 'string|max:255',
             'ingredients' => 'required|string',
             'instructions' => 'required|string',
+            'image_url'    => 'nullable|url',
         ]);
         $recipe->update($validated);
         return redirect()->route('recipes.show', compact('recipe'))->with('success', 'Recipe updated!');

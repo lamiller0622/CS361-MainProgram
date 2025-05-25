@@ -6,6 +6,7 @@
     <label class="form-label">Description</label>
     <input type="text" name="description" class="form-control" value="{{ old('title', $recipe->description ?? '') }}" required>
 </div>
+
 <div class="mb-3 d-flex gap-3 justify-content-between">
   <div class="col-lg-5">
     <label class="form-label">Prep Time</label>
@@ -31,4 +32,28 @@
     <div id="editor-instructions" class="bg-white border rounded" style="min-height:200px;">
       {!! old('instructions', $recipe->instructions ?? '') !!}
     </div>
+</div>
+
+<div class="mb-3">
+<label class="form-label">Image Prompt</label>
+    <div class="input-group">
+      <input type="text"
+             id="image-prompt"
+             class="form-control"
+             placeholder="e.g. golden chocolate chip cookies">
+      <button type="button"
+              class="btn btn-secondary"
+              id="btn-generate-image">
+        Generate Image
+      </button>
+    </div>
+    <img id="img-preview"
+       class="mt-2 rounded shadow"
+       style="max-width:200px; {{ (old('image_url', $recipe->image_url ?? '') ? 'display:block;' : 'display:none;') }}"
+       src="{{ old('image_url', $recipe->image_url ?? '') }}"
+       alt="Recipe thumbnail preview">
+    <input type="hidden"
+           name="image_url"
+           id="image_url"
+       value="{{ old('image_url', $recipe->image_url ?? '') }}">
 </div>

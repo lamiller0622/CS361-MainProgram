@@ -65,7 +65,9 @@ body {
         transition: .5s;
         .yellow-card-text{
           text-align: center;
-          margin-top: 1rem;
+          margin: auto;
+          padding: 10px;
+          border-radius: 20px;
         }
       }
       .bold-yellow{
@@ -126,5 +128,11 @@ body {
   }
 }
 
-
+#tip-banner{
+  border: none;
+  background: #A5A6F6;
+  #tip-text{
+    font-weight: bold;
+  }
+}
 

@@ -1,0 +1,87 @@
+{"request_id": "11c9efdf-a7b5-4552-88f6-58310aed4b3d", "tip": "Use a sharp knife\u2014it's safer and more precise."}
+{"request_id": "4230572a-6479-4f92-9d02-fc58cf81009d", "tip": "Let meat rest after cooking to retain juices."}
+{"request_id": "73f82998-1fc1-4689-a738-3a067cee28fe", "tip": "Taste as you cook and adjust seasoning gradually."}
+{"request_id": "6e475467-dbad-45b7-855d-d006523cec89", "tip": "Use a sharp knife\u2014it's safer and more precise."}
+{"request_id": "081c2ca1-8674-4613-935a-169f292c76e8", "tip": "Use a sharp knife\u2014it's safer and more precise."}
+{"request_id": "dba76a30-df00-464e-80bd-99367c7d7387", "tip": "Add a pinch of salt to sweet dishes to enhance flavor."}
+{"request_id": "a384f753-80c2-42f8-acc5-af416ddef5c4", "tip": "Use a sharp knife\u2014it's safer and more precise."}
+{"request_id": "4660cea3-8368-419e-82ca-1aed56613849", "tip": "Always preheat your pan before adding oil to prevent sticking."}
+{"request_id": "782ac9bd-651f-40c0-bf47-d08799de8c21", "tip": "Add a pinch of salt to sweet dishes to enhance flavor."}
+{"request_id": "14bb43a5-6f65-4952-83ed-75183f19baf1", "tip": "Always preheat your pan before adding oil to prevent sticking."}
+{"request_id": "c710614f-0514-445d-bb1b-79c71599cfb2", "tip": "Let meat rest after cooking to retain juices."}
+{"request_id": "861af2c3-f85b-4927-8390-f246d516bcf2", "tip": "Toast nuts and spices to unlock deeper flavors."}
+{"request_id": "f84afd43-9932-4473-85d7-a0ecb002c6b3", "tip": "Clean as you go to keep your workspace organized."}
+{"request_id": "d807a809-5028-430a-bedc-1e3d11d0c72f", "tip": "Store herbs like flowers: stems in water, loosely covered."}
+{"request_id": "4ce564ef-444b-44a6-a640-580f379c46d1", "tip": "Add a pinch of salt to sweet dishes to enhance flavor."}
+{"request_id": "4460a826-3a28-4b8b-b520-5da1bc470649", "tip": "Toast nuts and spices to unlock deeper flavors."}
+{"request_id": "a96b62e2-cdb6-42ba-bab2-24ec2f20b2fc", "tip": "Clean as you go to keep your workspace organized."}
+{"request_id": "16e6efa9-1719-42e1-8b15-ac972c7a444d", "tip": "Store herbs like flowers: stems in water, loosely covered."}
+{"request_id": "7478d16a-dbdf-4a24-9966-fdb18099a51f", "tip": "Add a pinch of salt to sweet dishes to enhance flavor."}
+{"request_id": "31dce6ee-ff9d-4d99-8158-26036c8f7433", "tip": "Clean as you go to keep your workspace organized."}
+{"request_id": "414d21c2-e60e-4596-9e4d-f9cc3af6839e", "tip": "Deglaze pans with wine or stock for instant sauce."}
+{"request_id": "55e361d7-191b-4ea0-a8f5-09147e55ed67", "tip": "Clean as you go to keep your workspace organized."}
+{"request_id": "a4d8036f-ede5-438a-affa-952192b3e78e", "tip": "Add a pinch of salt to sweet dishes to enhance flavor."}
+{"request_id": "25435cb5-2054-465e-b959-eefa5ad1d23f", "tip": "Add a pinch of salt to sweet dishes to enhance flavor."}
+{"request_id": "ffa1c980-3ae4-44d7-a866-127862e968c7", "tip": "Toast nuts and spices to unlock deeper flavors."}
+{"request_id": "db2287c2-069f-4a85-9818-6995f607a2c2", "tip": "Deglaze pans with wine or stock for instant sauce."}
+{"request_id": "2416b5f0-5cd9-4fe6-9252-c34b9cd035f2", "tip": "Deglaze pans with wine or stock for instant sauce."}
+{"request_id": "83c03fce-c7c9-4b77-a3a5-e44b806a344a", "tip": "Toast nuts and spices to unlock deeper flavors."}
+{"request_id": "0e1cd04d-6c1b-471f-8485-2c3ca31b1cfe", "tip": "Let meat rest after cooking to retain juices."}
+{"request_id": "70e8935e-a335-4154-b743-3366df37f08b", "tip": "Let meat rest after cooking to retain juices."}
+{"request_id": "5bc8634a-455c-4bdd-a0b4-6f5c4be6b592", "tip": "Store herbs like flowers: stems in water, loosely covered."}
+{"request_id": "3223a61b-31cd-4f0d-8d71-9f97ee1e28a1", "tip": "Store herbs like flowers: stems in water, loosely covered."}
+{"request_id": "cb03cfdc-d61a-4b6b-9846-4d9b19d00edd", "tip": "Reserve pasta water; the starch helps sauces cling."}
+{"request_id": "36cea567-a2fd-4476-a750-4e7ef7bb2e1d", "tip": "Store herbs like flowers: stems in water, loosely covered."}
+{"request_id": "9892c19e-47bc-4c94-a3cb-ff98b27d30ed", "tip": "Let meat rest after cooking to retain juices."}
+{"request_id": "6ca76d20-8bc4-4018-872e-375e81e60c54", "tip": "Use a sharp knife\u2014it's safer and more precise."}
+{"request_id": "d4d94409-868e-4dd2-916f-74808123aea6", "tip": "Store herbs like flowers: stems in water, loosely covered."}
+{"request_id": "245b621e-b70e-4e78-8323-72d202685db9", "tip": "Let meat rest after cooking to retain juices."}
+{"request_id": "ea77f9c7-a346-4af0-9ca7-54d75b4d0f38", "tip": "Let meat rest after cooking to retain juices."}
+{"request_id": "b899958a-f510-45cc-a786-f5d3e451f44e", "tip": "Store herbs like flowers: stems in water, loosely covered."}
+{"request_id": "73c21da3-cb68-4c1d-8fd2-b0b357e67765", "tip": "Use a sharp knife\u2014it's safer and more precise."}
+{"request_id": "22ea9efe-d5c4-44bc-8bbc-8a7566fa95be", "tip": "Add a pinch of salt to sweet dishes to enhance flavor."}
+{"request_id": "5e4907bf-8cec-4c42-b8e6-9b674aaf7658", "tip": "Taste as you cook and adjust seasoning gradually."}
+{"request_id": "fbe9d7e1-a859-42e2-a53f-d6453b557f55", "tip": "Let meat rest after cooking to retain juices."}
+{"request_id": "f9c5ab26-6959-42be-9edc-1b7c909112c9", "tip": "Use a sharp knife\u2014it's safer and more precise."}
+{"request_id": "7da77dc3-a757-4ae2-8d75-2316aca5360c", "tip": "Always preheat your pan before adding oil to prevent sticking."}
+{"request_id": "c83af211-2a4d-4080-a640-95ecf22e5403", "tip": "Reserve pasta water; the starch helps sauces cling."}
+{"request_id": "90eec51b-1d8c-4058-92e3-e3feb183d2cf", "tip": "Clean as you go to keep your workspace organized."}
+{"request_id": "16ef5b40-2946-4c63-8d03-c1070c19eb05", "tip": "Use a sharp knife\u2014it's safer and more precise."}
+{"request_id": "f94a85cb-b3e4-4fcd-ae04-8bc97bc31f29", "tip": "Reserve pasta water; the starch helps sauces cling."}
+{"request_id": "8d5079d0-bcfd-433d-8293-40e1004bc282", "tip": "Clean as you go to keep your workspace organized."}
+{"request_id": "80be386e-1d5e-4448-a75f-e17e7f529cdb", "tip": "Add a pinch of salt to sweet dishes to enhance flavor."}
+{"request_id": "fc71e145-b01c-490b-91a9-4d47915247c9", "tip": "Reserve pasta water; the starch helps sauces cling."}
+{"request_id": "abd9fb86-3fc0-4b80-81df-64c8e8c71ea8", "tip": "Let meat rest after cooking to retain juices."}
+{"request_id": "cb083d1b-3612-41ed-8d35-6e31d3e951a8", "tip": "Use a sharp knife\u2014it's safer and more precise."}
+{"request_id": "12841719-0b9c-48f8-b28e-763d057f680d", "tip": "Toast nuts and spices to unlock deeper flavors."}
+{"request_id": "cf67d8f5-ebf4-4509-b31d-9349866c4f83", "tip": "Toast nuts and spices to unlock deeper flavors."}
+{"request_id": "18b327ce-a746-4fde-80ef-b614c8946d3d", "tip": "Reserve pasta water; the starch helps sauces cling."}
+{"request_id": "fbe01a94-fc57-4c8d-8e0e-86db69ca013d", "tip": "Deglaze pans with wine or stock for instant sauce."}
+{"request_id": "37ffb470-a1d8-45e0-8d17-59ae64826ad6", "tip": "Deglaze pans with wine or stock for instant sauce."}
+{"request_id": "c89ab6f2-6221-426f-8db5-3715d2cef7f7", "tip": "Let meat rest after cooking to retain juices."}
+{"request_id": "64210412-852a-4a1c-ac63-d69b82e8ba02", "tip": "Reserve pasta water; the starch helps sauces cling."}
+{"request_id": "1a04c04d-d3a6-40cf-b403-3ee1cb1c53a2", "tip": "Let meat rest after cooking to retain juices."}
+{"request_id": "d3703543-633f-4474-b6aa-73af7bc4eadb", "tip": "Always preheat your pan before adding oil to prevent sticking."}
+{"request_id": "e67ea9a1-7586-4998-b76c-08514ba2cea0", "tip": "Toast nuts and spices to unlock deeper flavors."}
+{"request_id": "67a25c95-bef0-4307-985b-59924ed68d5d", "tip": "Clean as you go to keep your workspace organized."}
+{"request_id": "9b2e162c-ab2d-4300-b170-9e90ab7d866c", "tip": "Let meat rest after cooking to retain juices."}
+{"request_id": "80f8bcb2-938f-4aa9-b6b2-84506c50f100", "tip": "Add a pinch of salt to sweet dishes to enhance flavor."}
+{"request_id": "0ffdadbd-9cc8-4ca5-a8dd-851724c26cb9", "tip": "Deglaze pans with wine or stock for instant sauce."}
+{"request_id": "d953353e-ff84-47dc-8b76-5d28836a32ba", "tip": "Taste as you cook and adjust seasoning gradually."}
+{"request_id": "8f7d821c-a6d1-4249-901a-2ab3c19b3bc1", "tip": "Always preheat your pan before adding oil to prevent sticking."}
+{"request_id": "99f88bdc-1779-447d-bae0-e1278e54827e", "tip": "Use a sharp knife\u2014it's safer and more precise."}
+{"request_id": "78171fad-6870-4393-8ae0-8bc161634c96", "tip": "Deglaze pans with wine or stock for instant sauce."}
+{"request_id": "45dfa809-431c-4ad1-881c-1a5e5439cc68", "tip": "Store herbs like flowers: stems in water, loosely covered."}
+{"request_id": "d0fb6402-4f2f-4e26-bc39-92dcb4315b5f", "tip": "Add a pinch of salt to sweet dishes to enhance flavor."}
+{"request_id": "d228a03d-a820-4fc4-95c7-661805ea289a", "tip": "Add a pinch of salt to sweet dishes to enhance flavor."}
+{"request_id": "3a21044e-3ef2-4704-9eeb-7426357966a1", "tip": "Deglaze pans with wine or stock for instant sauce."}
+{"request_id": "b7d3320b-b540-46ca-a00a-1650b30872d5", "tip": "Clean as you go to keep your workspace organized."}
+{"request_id": "9a7867e8-f30e-47f0-9b75-96807283b85f", "tip": "Deglaze pans with wine or stock for instant sauce."}
+{"request_id": "fe0f32c4-fbbd-478f-807e-e98179428c19", "tip": "Reserve pasta water; the starch helps sauces cling."}
+{"request_id": "2a605841-a10b-49d7-b55c-44b692d20f18", "tip": "Store herbs like flowers: stems in water, loosely covered."}
+{"request_id": "ca6a5498-32e5-4b8c-bcc2-02eee37c66af", "tip": "Reserve pasta water; the starch helps sauces cling."}
+{"request_id": "db168d67-4bd1-4579-ae1b-8188af769590", "tip": "Taste as you cook and adjust seasoning gradually."}
+{"request_id": "34aca484-0627-452e-8410-4de06cc39c90", "tip": "Let meat rest after cooking to retain juices."}
+{"request_id": "e74121e9-39da-47be-b98d-d8baba259b38", "tip": "Deglaze pans with wine or stock for instant sauce."}
+{"request_id": "406e9825-2c75-4e79-bccb-3fc53ea15c11", "tip": "Taste as you cook and adjust seasoning gradually."}
+{"request_id": "af746c82-f6e0-4c68-bcd8-06b738bdb806", "tip": "Use a sharp knife\u2014it's safer and more precise."}
